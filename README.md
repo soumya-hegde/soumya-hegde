@@ -4,9 +4,15 @@
 
 <p align="left"> <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" alt="soumyahegde" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-hegde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya-hegde" alt="soumya-hegde" /></a> </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-hegde" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya-hegde" alt="soumya-hegde" /></a> </p> -->
+
+About me:
+
+I'm a dedicated Computer Science Engineer, with a keen interest in Programming and devlopment. I'm currently learning and mastering full stack. I'm actively seeking a software developer job to apply my skills and gain industry experience. My ultimate goal is to leave a significant mark in the tech industry.
 
 - 🌱 I’m currently learning **MERN Stack**
 
